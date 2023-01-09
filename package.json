@@ -7,7 +7,7 @@
     "start": "ts-node ./src/app.ts"
   },
   "dependencies": {
-    "terminal-kit": "^1.41.0",
+    "terminal-kit": "^1.49.4",
     "chalk": "^4.1.0"
   },
   "devDependencies": {
